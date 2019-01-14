@@ -12,8 +12,7 @@ import com.badlogic.gdx.math.Vector3;
 
 public class GameMain extends ApplicationAdapter {
 	private static final float SCALE = 3.0f;
-	//private static final String MAP_PATH = "maps/GameMap.tmx";
-	private static final String MAP_PATH = "maps/ONE.tmx";
+	private static final String MAP_PATH = "maps/one1.tmx";
 	private OrthographicCamera orthographicCamera;
 	private SpriteBatch batch;
 	private OrthogonalTiledMapRenderer tiledMapRenderer;
